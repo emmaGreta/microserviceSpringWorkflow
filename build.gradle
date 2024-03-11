@@ -24,8 +24,9 @@ tasks.named('test') {
 }
 sonar {
   properties {
-    property "sonar.projectKey", "monprojet_moprojetname"
-    property "sonar.organization", "monprojet"
+    property "sonar.projectKey", "tpworkflowjenkisawsgithubdistan_microservicegradle"
+    property "sonar.organization", "tpworkflowjenkisawsgithubdistan"
     property "sonar.host.url", "https://sonarcloud.io"
   }
+
 }
